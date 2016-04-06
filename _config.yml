@@ -1,9 +1,9 @@
 permalink: /:categories/:title/
 url: "http://example.com"
-full_name: "Satanismo de bar"
-first_name: "Satanismo de"
-last_name: "bar"
-blog_title: "Satanismo de bar"
+full_name: "Satanismo Intelectual"
+first_name: "Satanismo"
+last_name: "Intelectual"
+blog_title: "Satanismo Intelectual"
 author_img_name_path: "/images/users/user.jpg"
 disqus_shortname: "example"
 copyright_year: "2016"
